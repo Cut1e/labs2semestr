@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\OOPlab2\Class\Abstracts\Abstracts\bin\Debug\Abstracts.dll
+C:\Users\User\Desktop\OOPlab2\Class\Abstracts\Abstracts\bin\Debug\Abstracts.pdb
+C:\Users\User\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.dll
+C:\Users\User\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.pdb
+C:\Users\folko\Desktop\OOPlab2\Class\Abstracts\Abstracts\bin\Debug\Abstracts.dll
+C:\Users\folko\Desktop\OOPlab2\Class\Abstracts\Abstracts\bin\Debug\Abstracts.pdb
+C:\Users\folko\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.csprojAssemblyReference.cache
+C:\Users\folko\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\folko\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.dll
+C:\Users\folko\Desktop\OOPlab2\Class\Abstracts\Abstracts\obj\Debug\Abstracts.pdb

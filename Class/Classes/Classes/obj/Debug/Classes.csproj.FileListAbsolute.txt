@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\bin\Debug\Abstracts.dll
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.csproj.CopyComplete
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\User\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\bin\Debug\Abstracts.dll
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.csproj.CopyComplete
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\folko\Desktop\OOPlab2\Class\Classes\Classes\obj\Debug\Classes.pdb
